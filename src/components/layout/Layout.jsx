@@ -3,7 +3,7 @@ import React from "react";
 import Header from "../Header/header";
 import { useContext } from "react";
 // import { ThemeContext } from "../../ThemeContext";
-import Footer from "../footer/footer";
+//import Footer from "../footer/footer";
 // import './Layout.css';
 
 const Layout = (props) => {
